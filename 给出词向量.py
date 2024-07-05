@@ -1,5 +1,5 @@
 #pip install -U sentence-transformers
-#
+#安装后运行以下，再安装'BAAI/bge-large-zh-v1.5'模型
 #import sentence_transformers
 from sentence_transformers import SentenceTransformer
 sentences_1=["样例数据-1","样例数据-2"]
