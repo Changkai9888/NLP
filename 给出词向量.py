@@ -1,3 +1,5 @@
+#pip install -U sentence-transformers
+#
 #import sentence_transformers
 from sentence_transformers import SentenceTransformer
 sentences_1=["样例数据-1","样例数据-2"]
